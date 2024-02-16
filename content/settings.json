@@ -1,12 +1,12 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Justin Jamison - Full Stack Developer | Lifelong Learner",
-    "titleTemplate": "%s · Portfolio",
+    "siteUrl": "https://jsquaredweb.netlify.app/",
+    "title": "Justin Jamison",
+    "titleTemplate": "%s | J² Web",
     "description": "Profile site for Justin Jamison, a full-stack software developer.",
     "author": "Justin Jamison",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/high-voltage.png",
     "bio": "I am a diligent, detail-oriented, and dedicated software developer with the ability to produce high quality work. I value user-centered design, simplicity, efficiency, security, privacy, and visual appeal. I strongly believe in best practices and well-designed processes - the way in which the work is done is as important as the work itself. I enjoy and value learning, and am always seeking to improve. I am guided by a strong code of ethics that drives me in my motivation to help make the world a better place.",
     "social": {
       "github": "https://github.com/jamisonj",
@@ -16,12 +16,12 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Justin Jamison" },
+    "logo": { "text": "J² Web" },
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },
         { "label": "My Projects", "url": "/#projects" },
-        { "label": "My Github", "url": "/#github" }
+        { "label": "My Github", "url": "https://github.com/jamisonj" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -29,6 +29,7 @@
         "url": "/resume.docx"
       },
       "footer": [
+        { "label": "Copyright 2024, Justin Jamison. All rights reserved." },
         { "label": "Privacy", "url": "/privacy" }
       ]
     },
