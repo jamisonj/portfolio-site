@@ -4,7 +4,7 @@
   "description": "Feel free to reach out or follow me on social!",
   "image": {
     "src": "../../images/profile.jpg",
-    "alt": "Gatsby Logo"
+    "alt": "Justin Jamison profile"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Twitter"],
