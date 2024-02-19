@@ -1,59 +1,80 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "PHP",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/php-logo.png",
+        "alt": "PHP icon"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/javascript-logo.png",
+        "alt": "JavaScript icon"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Amazon Web Services",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/aws-logo.png",
+        "alt": "Amazon Web Services icon"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "React icon"
       }
     },
     {
-      "label": "Animations",
+      "label": "Drupal",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/drupal-logo.png",
+        "alt": "Drupal icon"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/nodejs-logo.png",
+        "alt": "Node.js icon"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Docker",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/docker-logo.png",
+        "alt": "Docker icon"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "SQL",
       "image": {
         "src": "../../images/high-voltage.png",
-        "alt": ""
+        "alt": "lightning bolt icon"
+      }
+    },
+    {
+      "label": "Gatsby",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": "Gatsby icon"
+      }
+    },
+    {
+      "label": "Teamwork",
+      "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Gatsby icon"
+      }
+    },
+    {
+      "label": "Leadership",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": "Gatsby icon"
       }
     }
   ],

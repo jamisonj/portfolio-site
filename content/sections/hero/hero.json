@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hi there!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/ai-profile.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "My name is Justin Jamison.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a full stack software developer with experience in JavaScript, PHP, React, Node, Drupal, Docker, and AWS. My projects and experience have focused a on content management, localization/translations, ecommerce and data migration.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Twitter", "Mail"],
+    "showIcons": true
   }
 }

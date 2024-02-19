@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "jsquaredweb",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Justin's Portfolio site version 2.0.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
