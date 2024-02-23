@@ -7,7 +7,7 @@
     "alt": "Justin Jamison profile"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Twitter"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }

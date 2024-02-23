@@ -16,7 +16,7 @@
   },
   "description": "I'm a full-stack software developer with experience in JavaScript, PHP, React, Node, Drupal, Docker, and AWS. My projects and experience have focused on content management, localization/translations, ecommerce and data migration.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Twitter", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }
