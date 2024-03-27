@@ -10,4 +10,4 @@ I value user-centered design, simplicity, efficiency, security, privacy, and vis
 
 Beyond technical proficiency, I am driven by a profound sense of ethics and a deep-seated desire to make a positive impact in the world. I am committed to upholding the highest standards of integrity in all that I do. 
 
-If you are seeking someone with these qualities, I am ready to join your team. Send me a LinkedIn message or email to get the conversation going.
+If you are seeking someone with these qualities, I am excited to join your team! Send me a LinkedIn message or email to get the conversation going.
