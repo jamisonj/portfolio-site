@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "My Resume",
-        "url": "/resume.docx"
+        "url": "/resume.pdf"
       },
       "footer": [
         { "label": "Powered by the Portfolio Minimal theme", "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/"},
