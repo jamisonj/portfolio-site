@@ -1,7 +1,7 @@
 {
   "intro": "Hi there!",
   "heroPhoto": {
-    "src": "../../images/ai-profile.jpg",
+    "src": "../../images/profile-pic.jpg",
     "alt": "My Photo"
   },
   "image": {
