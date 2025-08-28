@@ -8,6 +8,9 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
+import * as styles from "../css/ProjectsSection.module.css";
+
+console.log('styles', styles.projects);
 
 export default function IndexPage() {
   return (
@@ -18,7 +21,9 @@ export default function IndexPage() {
         {/* <ArticlesSection sectionId="articles" heading="Latest Blog Posts" sources={['Blog']} /> */}
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" heading="My Skills" />
-        <ProjectsSection sectionId="projects" heading="My Projects" />
+        <div className={styles.projects}>
+          <ProjectsSection sectionId="projects" heading="My Projects" />
+        </div>
         <ContactSection sectionId="github" heading="Contact Me" />
       </Page>
     </>
