@@ -21,6 +21,7 @@ export default function IndexPage() {
         {/* <ArticlesSection sectionId="articles" heading="Latest Blog Posts" sources={['Blog']} /> */}
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" heading="My Skills" />
+        {/* Extra div is necessary to apply custom CSS because ProjectsSection doesn't accept custom classes */}
         <div className={styles.projects}>
           <ProjectsSection sectionId="projects" heading="My Projects" />
         </div>
