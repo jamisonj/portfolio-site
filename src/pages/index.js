@@ -1,7 +1,6 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -9,6 +8,9 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
+import * as styles from "../css/ProjectsSection.module.css";
+
+console.log('styles', styles.projects);
 
 export default function IndexPage() {
   return (
@@ -19,7 +21,10 @@ export default function IndexPage() {
         {/* <ArticlesSection sectionId="articles" heading="Latest Blog Posts" sources={['Blog']} /> */}
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" heading="My Skills" />
-        <ProjectsSection sectionId="projects" heading="My Projects" />
+        {/* Extra div is necessary to apply custom CSS because ProjectsSection doesn't accept custom classes */}
+        <div className={styles.projects}>
+          <ProjectsSection sectionId="projects" heading="My Projects" />
+        </div>
         <ContactSection sectionId="github" heading="Contact Me" />
       </Page>
     </>

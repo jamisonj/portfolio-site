@@ -2,7 +2,43 @@
   "projects": [
     {
       "visible": true,
-      "category": "Industry Project",
+      "category": "LifeSTEPS",
+      "title": "Permissions System Upgrade",
+      "description": "Built a revolutionary permissions system for LifeSTEPS, which involved redesigning logic for 100+ legacy permissions checks in PHP. Click the link to learn more about LifeSTEPS.",
+      "tags": ["Permissions", "PHP", "SQL", "LifeSTEPS"],
+      "image": {
+        "src": "../../images/permissions-project.png",
+        "alt": "Permissions Page screenshot",
+        "linkTo": "https://lifestepsusa.org/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://lifestepsusa.org/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Younique",
+      "title": "Product Page Migration",
+      "description": "Migrated over 500 of Younique's product display pages, including their translated content, from the legacy CakePHP site to a ReactJS frontend and Node.js backend. Click the link to see an example product page.",
+      "tags": ["E-commerce", "JavaScript", "React", "Node.js", "Younique"],
+      "image": {
+        "src": "../../images/younique-category-page.png",
+        "alt": "Product Page screenshot",
+        "linkTo": "https://www.youniqueproducts.com/products/view/US-16304-71"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.youniqueproducts.com/products/view/US-16304-71"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Younique",
       "title": "Younique CMS",
       "description": "Built an innovative Drupal-powered CMS for Younique using PHP, which cut content creation, scheduling, and testing time by 50%. Click the link below to see the Younique homepage, powered by the CMS.",
       "tags": ["Content Management", "CMS", "Drupal", "Younique"],
@@ -19,7 +55,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "School Project",
       "title": "YouTube Audio Filtering",
       "description": "For our Capstone Project, my partner and I built a Google Chrome extension called YouTube Audio Filtering, that allows users to filter swearwords out of YouTube videos.",
