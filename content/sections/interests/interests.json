@@ -1,13 +1,6 @@
 {
   "interests": [
     {
-      "label": "PHP",
-      "image": {
-        "src": "../../images/php-logo.png",
-        "alt": "PHP icon"
-      }
-    },
-    {
       "label": "JavaScript",
       "image": {
         "src": "../../images/javascript-logo.png",
@@ -15,10 +8,10 @@
       }
     },
     {
-      "label": "Amazon Web Services",
+      "label": "PHP",
       "image": {
-        "src": "../../images/aws-logo.png",
-        "alt": "Amazon Web Services icon"
+        "src": "../../images/php-logo.png",
+        "alt": "PHP icon"
       }
     },
     {
@@ -26,13 +19,6 @@
       "image": {
         "src": "../../images/react.png",
         "alt": "React icon"
-      }
-    },
-    {
-      "label": "Drupal",
-      "image": {
-        "src": "../../images/drupal-logo.png",
-        "alt": "Drupal icon"
       }
     },
     {
@@ -50,6 +36,20 @@
       }
     },
     {
+      "label": "Amazon Web Services",
+      "image": {
+        "src": "../../images/aws-logo.png",
+        "alt": "Amazon Web Services icon"
+      }
+    },
+    {
+      "label": "Drupal",
+      "image": {
+        "src": "../../images/drupal-logo.png",
+        "alt": "Drupal icon"
+      }
+    },
+    {
       "label": "SQL",
       "image": {
         "src": "../../images/high-voltage.png",
@@ -61,6 +61,13 @@
       "image": {
         "src": "../../images/gatsby.png",
         "alt": "Gatsby icon"
+      }
+    },
+    {
+      "label": "Jest",
+      "image": {
+        "src": "../../images/wrench.png",
+        "alt": "Wrench icon"
       }
     },
     {
