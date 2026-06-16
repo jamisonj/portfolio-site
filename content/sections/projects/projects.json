@@ -2,6 +2,24 @@
   "projects": [
     {
       "visible": true,
+      "category": "RLDatix",
+      "title": "Manufacturer Guidelines Email Notifications Page",
+      "description": "Built an email notification recipients settings page for Manufacturer Guidelines, an RLDatix system used for managing medical equipment documentation. Click the link to learn more about Manufacturer Guidelines and RLDatix.",
+      "tags": ["Frontend", "PHP", "Twig", "MySQL", "RLDatix"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Manufacturer Guidelines placeholder screenshot",
+        "linkTo": "https://www.rldatix.com/en-nam/module/manufacturer-guidelines"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.rldatix.com/en-nam/module/manufacturer-guidelines"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "LifeSTEPS",
       "title": "Permissions System Upgrade",
       "description": "Built a revolutionary permissions system for LifeSTEPS, which involved redesigning logic for 100+ legacy permissions checks in PHP. Click the link to learn more about LifeSTEPS.",
@@ -44,7 +62,7 @@
       "tags": ["Content Management", "CMS", "Drupal", "Younique"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "alt": "Younique CMS template screenshot",
         "linkTo": "https://youniqueproducts.com"
       },
       "links": [
