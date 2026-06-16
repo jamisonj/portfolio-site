@@ -50,21 +50,21 @@
       }
     },
     {
-      "label": "SQL",
+      "label": "MySQL",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": "lightning bolt icon"
       }
     },
     {
-      "label": "Gatsby",
+      "label": "ElasticSearch",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": "Gatsby icon"
+        "src": "../../images/elasticsearch.png",
+        "alt": "ElasticSearch icon"
       }
     },
     {
-      "label": "Jest",
+      "label": "Laravel",
       "image": {
         "src": "../../images/wrench.png",
         "alt": "Wrench icon"
