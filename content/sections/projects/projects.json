@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "RLDatix",
-      "title": "Manufacturer Guidelines Email Notifications Page",
+      "title": "Manufacturer Guidelines Email Notifications",
       "description": "Built an email notification recipients settings page for Manufacturer Guidelines, an RLDatix system used for managing medical equipment documentation. Click the link to learn more about Manufacturer Guidelines and RLDatix.",
       "tags": ["Frontend", "PHP", "Twig", "MySQL", "RLDatix"],
       "image": {
